@@ -67,5 +67,5 @@ Construindo projetos cada vez melhores
 
 Estou sempre aberto a **networking, troca de conhecimentos e novas oportunidades** na área de tecnologia.
 
-[LinkedIn](https://www.linkedin.com/in/pedro-rodrigues-de-oliveira-a925533b8/?isSelfProfile=true) • [GitHub](SEU_GITHUB)
+[LinkedIn](https://www.linkedin.com/in/pedro-rodrigues-de-oliveira-a925533b8/?isSelfProfile=true) • [GitHub](https://github.com/CephasTI)
 
