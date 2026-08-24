@@ -1,6 +1,6 @@
 # Olá! Eu sou o Pedro 👋
 
- Desenvolvedor em formação | Back-End & Desenvolvimento Web
+### Desenvolvedor em formação | Back-End & Desenvolvimento Web
 
 Sou estudante de **Ciência da Computação** e estou construindo minha trajetória na área de tecnologia, com foco em **desenvolvimento Back-End e aplicações Web**.
 
