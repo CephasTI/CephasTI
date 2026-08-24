@@ -63,7 +63,7 @@ Construindo projetos cada vez melhores
 
 ---
 
-## 🤝 Vamos nos conectar?
+## 🤝 Me chame por aqui!
 
 Estou sempre aberto a **networking, troca de conhecimentos e novas oportunidades** na área de tecnologia.
 
